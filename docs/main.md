@@ -224,10 +224,3 @@ If this repository helps you:
 This project is open source and available under the MIT License.
 
 ---
-
-
-
----
-
-💡 Prochaine étape que je te recommande :
-Je peux te créer **le fichier CONTRIBUTING.md parfait pour attirer des contributions GitHub (très important pour rendre ton repo populaire)**.
