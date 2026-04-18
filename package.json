@@ -1,0 +1,32 @@
+{
+  "name": "public-apis",
+  "version": "1.0.0",
+  "description": "![GitHub stars](https://img.shields.io/github/stars/monamijer/public-apis) ![GitHub forks](https://img.shields.io/github/forks/monamijer/public-apis) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen) ![License](https://img.shields.io/github/license/monamijer/public-apis)",
+  "keywords": [
+    "api",
+    "websites"
+  ],
+  "homepage": "https://github.com/monamijer/public-apis#readme",
+  "bugs": {
+    "url": "https://github.com/monamijer/public-apis/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monamijer/public-apis.git"
+  },
+  "license": "ISC",
+  "author": "Girolamo",
+  "type": "module",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "karma"
+  },
+  "dependencies": {
+    "lint": "^0.8.19",
+    "prettier": "^3.8.3",
+    "vite": "^8.0.8"
+  }
+}
