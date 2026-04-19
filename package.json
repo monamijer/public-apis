@@ -22,7 +22,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "karma"
+    "test": "karma",
+    "dev": "vite"
   },
   "dependencies": {
     "lint": "^0.8.19",
