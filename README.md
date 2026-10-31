@@ -141,6 +141,7 @@ Génère des citations absurdes mais surprisingly profondes en mixant ces trois 
 | [JokeAPI](https://jokeapi.dev/) | Blagues catégorisées | Non | ✅ | Bot Slack qui envoie une blague à 9h pour démarrer la semaine |
 | [Advice Slip](https://api.adviceslip.com/) | Conseils aléatoires | Non | ✅ | "Fortune cookie" CLI pour ton terminal |
 | [Bored API](https://www.boredapi.com/) | Idées d'activités | Non | ✅ | Générateur d'idées quand tu procrastines |
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Une idée quotidienne de voyage ou d’expérience, en néerlandais | Non | ✅ | Ajoute une idée du jour et son lien canonique à un tableau de bord de voyage |
 | [Chuck Norris](https://api.chucknorris.io/) | Faits Chuck Norris | Non | ✅ | Template pour créer des blagues avec n'importe quel nom |
 
 ### 🛠️ Utilitaires Développeurs
